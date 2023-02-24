@@ -2,9 +2,9 @@
 {
     public class Quote
     {
-        public string Id { get; set; }
-        public string Dialog { get; set; }
-        public string Movie { get; set; }
-        public string Character { get; set; }
+        public string? Id { get; set; }
+        public string? Dialog { get; set; }
+        public string? Movie { get; set; }
+        public string? Character { get; set; }
     }
 }
